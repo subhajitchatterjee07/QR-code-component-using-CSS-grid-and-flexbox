@@ -50,9 +50,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
   
 
-- Solution URL: [Add solution URL here](https://github.com/subhajitchatterjee07/QR-code-component-using-CSS-grid-and-flexbox)
+- Solution URL: [Solution URL](https://github.com/subhajitchatterjee07/QR-code-component-using-CSS-grid-and-flexbox)
 
-- Live Site URL: [Add live site URL here](https://subhajitchatterjee07.github.io/QR-code-component-using-CSS-grid-and-flexbox/)
+- Live Site URL: [Live site URL](https://subhajitchatterjee07.github.io/QR-code-component-using-CSS-grid-and-flexbox/)
 
   
 
